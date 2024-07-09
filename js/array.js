@@ -32,5 +32,4 @@ console.log("\"join\" method used to convert total aray into single string")
 const joinn=array.join()
 console.log(joinn)
 
-console.log("Madhan")
   
