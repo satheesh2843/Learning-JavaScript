@@ -28,3 +28,9 @@ console.log("----------------for in loop -----------")
 for(let i in student){
     console.log(student[i]);
 }
+
+
+console.log("destruturing the objects"); 
+console.log("assinging the key name to another variables");
+const {name:newvar,array:newarray}=student;
+console.log(newvar );
